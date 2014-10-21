@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D434CE2-6DEA-4F81-AE5C-E944A171A740</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSFonts</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA23E3939B4E8DCE0DDED7072E8C26F1D2191C44</key>
+		<string>https://github.com/sunny-liu/iOS8FontList.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSFonts/iOSFonts.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA23E3939B4E8DCE0DDED7072E8C26F1D2191C44</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sunny-liu/iOS8FontList.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA23E3939B4E8DCE0DDED7072E8C26F1D2191C44</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA23E3939B4E8DCE0DDED7072E8C26F1D2191C44</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS8FontList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
