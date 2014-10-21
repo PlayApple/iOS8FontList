@@ -38,6 +38,16 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         return fontFamilyNames.count
     }
     
+    func sectionIndexTitlesForTableView(tableView: UITableView) -> [AnyObject]! {
+        var list:[AnyObject]! = [AnyObject]()
+        for familyName in fontFamilyNames {
+            let str: String = familyName as String
+            let index = advance(str.startIndex, 1)
+            list.append(str.substringToIndex(index))
+        }
+        return list
+    }
+    
     func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         let fontNames = fontNamesOfSection(section)
         var count = 0
